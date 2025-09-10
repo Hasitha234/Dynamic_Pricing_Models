@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "city1": "Los Angeles, CA (Metropolitan Area)",
+      "city2": "New York City, NY (Metropolitan Area)",
+      "fare": 320,
+      "nsmiles": 2451,
+      "passengers": 150,
+      "large_ms": 0.8,
+      "lf_ms": 0.9,
+      "month_sin": 0.5,
+      "month_cos": 0.87,
+      "quarter_sin": 0.3,
+      "quarter_cos": 0.95,
+      "fare_lag1y": 300,
+      "passengers_roll4": 145
+    }
+  ]
+}
